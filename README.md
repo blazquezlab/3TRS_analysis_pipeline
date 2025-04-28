@@ -1,9 +1,9 @@
-# Lexogen pipeline
+# 3TRS analysis pipeline
 
 > Developed by: Álvaro Herrero Reiriz  
 > GitHub: [a-hr](https://github.com/a-hr)
 
-- [Lexogen pipeline](#lexogen-pipeline)
+- [3TRS pipeline](#3TRS-pipeline)
   - [Introduction](#introduction)
   - [How to use the pipeline](#how-to-use-the-pipeline)
   - [Requirements](#requirements)
