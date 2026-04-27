@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema",
-  "$id": "https://raw.githubusercontent.com/a-hr/lexogen_pipeline/master/nextflow_schema.json",
+  "$id": "https://raw.githubusercontent.com/blazquezlab/3TRS_analysis_pipeline/master/nextflow_schema.json",
   "title": "a-hr/lexogen_pipeline pipeline parameters",
   "description": "A pipeline to demultiplex, align, deduplicate and count transcripts on targeted RNA sequencing data.",
   "type": "object",
